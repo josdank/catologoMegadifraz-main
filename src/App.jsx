@@ -5,7 +5,7 @@ function App() {
   return (
     <div>
       <PaginaPrincipal />
-      Hola
+      Hola2
     </div>
   );
 }
